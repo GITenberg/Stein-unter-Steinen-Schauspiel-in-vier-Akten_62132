@@ -1,5 +1,8 @@
 _repo: Stein-unter-Steinen-Schauspiel-in-vier-Akten_62132
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62132-h/images/cover.jpg
 creator:
   author:
     agent_name: Sudermann, Hermann
@@ -15,6 +18,8 @@ creator:
     - https://de.wikipedia.org/wiki/Hermann_Sudermann
     - https://en.wikipedia.org/wiki/Hermann_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62132#Stein-unter-Steinen-Schauspiel-in-vier-Akten
 gutenberg_issued: '2020-05-14'
 gutenberg_type: Text
 identifiers:
