@@ -1,0 +1,31 @@
+_repo: Stein-unter-Steinen-Schauspiel-in-vier-Akten_62132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sudermann, H. (Hermann)
+    - Sunderman, Hermann
+    - Sudermann, Herman
+    birthdate: 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Sudermann
+    - https://en.wikipedia.org/wiki/Hermann_Sudermann
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62132'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Stein unter Steinen: Schauspiel in vier Akten'
+url: http://www.gutenberg.org/ebooks/62132
